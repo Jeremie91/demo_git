@@ -1,3 +1,3 @@
 # demo_git
 Une demo de git
-on modifie depuis gitHub
+modifié depuis le PC de Jérémie
